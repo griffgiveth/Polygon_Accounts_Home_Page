@@ -6,17 +6,17 @@ const HowItWorks = () => {
     {
       icon: Mail,
       title: 'Sign in with email',
-      description: 'Use your email or social login - no complicated setup required'
+      description: 'No seed phrases or private keys to manage'
     },
     {
       icon: Globe,
       title: 'Claim your domain',
-      description: 'Choose your unique polygon.ac domain name'
+      description: 'Get your handle before someone else does!'
     },
     {
       icon: Send,
       title: 'Start transacting',
-      description: 'Send and receive instantly with no transaction fees'
+      description: 'Start using Polygon with no transaction fees'
     }
   ];
 
@@ -28,7 +28,7 @@ const HowItWorks = () => {
             Simple 3-step process
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Get started with Polygon in minutes, not hours
+            Get started with Polygon in seconds
           </p>
         </div>
 
