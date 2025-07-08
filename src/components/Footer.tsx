@@ -14,10 +14,10 @@ const Footer = () => {
               />
             </div>
             <h2 className="text-3xl lg:text-4xl font-bold text-white mb-4">
-              Ready to get started?
+              Bank-grade security without the bank!
             </h2>
             <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
-              Join thousands of users already using Polygon Accounts
+              Ready to get started?
             </p>
           </div>
           
