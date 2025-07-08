@@ -14,7 +14,7 @@ const Footer = () => {
               />
             </div>
             <h2 className="text-3xl lg:text-4xl font-bold text-white mb-4">
-              Bank-grade security without the bank!
+              Bank-level safety without the bank!
             </h2>
             <p className="text-xl text-purple-100 mb-8 max-w-2xl mx-auto">
               Ready to get started?
