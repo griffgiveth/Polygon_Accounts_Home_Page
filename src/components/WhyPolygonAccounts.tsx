@@ -37,7 +37,7 @@ const WhyPolygonAccounts = () => {
             Why Polygon Accounts?
           </h2>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Built for the next generation of Web3 users who value simplicity without sacrificing security
+            Built for the next generation of web3 users who value safety without sacrificing user experience.
           </p>
         </div>
 
@@ -64,7 +64,7 @@ const WhyPolygonAccounts = () => {
         <div className="mt-16 text-center">
           <div className="inline-flex items-center px-6 py-3 bg-gradient-to-r from-purple-100 to-teal-100 rounded-full text-purple-800 font-medium">
             <span className="inline-block w-2 h-2 bg-green-500 rounded-full mr-3 animate-pulse"></span>
-            Bank-grade security with thirdweb smart-wallet technology
+            Bank-grade security without the bank
           </div>
         </div>
       </div>
