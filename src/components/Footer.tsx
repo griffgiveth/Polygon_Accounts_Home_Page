@@ -33,12 +33,6 @@ const Footer = () => {
               <div className="flex items-center mb-4 md:mb-0">
                 <span>© 2024 Polygon Accounts. All rights reserved.</span>
               </div>
-              
-              <div className="flex items-center space-x-6">
-                <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-                <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-                <a href="#" className="hover:text-white transition-colors">Support</a>
-              </div>
             </div>
           </div>
         </div>
