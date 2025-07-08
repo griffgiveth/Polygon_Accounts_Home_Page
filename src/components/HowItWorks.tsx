@@ -66,7 +66,7 @@ const HowItWorks = () => {
         <div className="mt-20 text-center">
           <div className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-green-50 to-emerald-50 rounded-2xl border border-green-200">
             <div className="w-3 h-3 bg-green-500 rounded-full mr-3 animate-pulse"></div>
-            <span className="text-green-800 font-semibold text-lg">No transaction fees</span>
+            <span className="text-green-800 font-semibold text-lg">Free transaction fees</span>
           </div>
         </div>
       </div>
