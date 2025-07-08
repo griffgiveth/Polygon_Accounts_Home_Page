@@ -5,13 +5,13 @@ const SecurityFeatures = () => {
   const features = [
     {
       icon: Shield,
-      title: 'Curated applications that prevent phishing',
-      description: 'Only verified, secure applications are available through your Polygon Account dashboard'
+      title: 'Curated applications',
+      description: 'Only verified, safe applications to our users, preventing phishing attacks.'
     },
     {
       icon: CheckCircle,
-      title: 'Simplified tooling that prevents user errors',
-      description: 'Intuitive interface designed to eliminate common mistakes and protect your assets'
+      title: 'Simplified tooling',
+      description: 'Intuitive interface designed to eliminate common mistakes to protect you from losing your assets'
     }
   ];
 
