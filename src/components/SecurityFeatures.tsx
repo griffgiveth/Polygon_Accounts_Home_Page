@@ -11,7 +11,7 @@ const SecurityFeatures = () => {
     {
       icon: CheckCircle,
       title: 'Simplified tooling',
-      description: 'Intuitive design eliminates common user errors, protecting you and your assets'
+      description: 'Intuitive design eliminates common user errors, protecting you & your assets'
     }
   ];
 
