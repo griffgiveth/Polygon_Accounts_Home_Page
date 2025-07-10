@@ -11,15 +11,15 @@ const FAQ = () => {
     },
     {
       question: "How secure is my Polygon Account?",
-      answer: "Your account uses enterprise-grade security with smart contract technology. We've implemented multiple layers of protection including curated applications and simplified tooling to prevent common user errors."
+      answer: "Your account uses enterprise-grade security with smart contract technology. We've implemented multiple layers of protection to protect you from the most common scams and user errors that lead to loss of funds."
     },
     {
       question: "What can I do with my polygon.ac domain?",
-      answer: "Your polygon.ac domain serves as both your wallet address and your Web3 identity. Anyone can send you crypto using your easy-to-remember domain name instead of a complex wallet address."
+      answer: "Your polygon.ac domain serves as both your wallet address and your web3 identity. Anyone can send you crypto using your easy-to-remember domain name."
     },
     {
       question: "Do I need any special software or extensions?",
-      answer: "No additional software required. Polygon Accounts works directly in your web browser with just an email login or social authentication."
+      answer: "No additional software required. Polygon Accounts works directly in your web browser with just an email login."
     }
   ];
 
