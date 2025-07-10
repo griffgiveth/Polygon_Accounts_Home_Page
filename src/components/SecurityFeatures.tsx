@@ -6,12 +6,12 @@ const SecurityFeatures = () => {
     {
       icon: Shield,
       title: 'Curated applications',
-      description: 'Only verified, safe applications to our users, preventing phishing attacks.'
+      description: 'Only verified, safe applications are allowed, preventing phishing attacks.'
     },
     {
       icon: CheckCircle,
       title: 'Simplified tooling',
-      description: 'Intuitive interface designed to eliminate common mistakes to protect you from losing your assets'
+      description: 'Intuitive interface designed to eliminate common errors to protect you and your assets'
     }
   ];
 
