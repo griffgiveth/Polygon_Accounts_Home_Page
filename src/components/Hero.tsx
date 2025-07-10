@@ -30,7 +30,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl lg:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
-            Safe, fast & free. Create your Polygon Account, and start using defi instantly.
+            Safe, fast & free. Create your Polygon Account to start using defi today.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-16">
@@ -43,7 +43,7 @@ const Hero = () => {
             
             <div className="flex items-center text-gray-500 text-sm">
               <div className="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></div>
-              No transaction fees during launch
+              Free transaction fees for a limited time
             </div>
           </div>
 
