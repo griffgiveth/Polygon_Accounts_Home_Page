@@ -16,7 +16,7 @@ const HowItWorks = () => {
     {
       icon: Send,
       title: 'Start transacting',
-      description: 'Start using Polygon with no transaction fees'
+      description: 'Play with defi, buy bitcoin, gold and more'
     }
   ];
 
