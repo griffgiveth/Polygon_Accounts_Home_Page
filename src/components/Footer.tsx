@@ -31,7 +31,7 @@ const Footer = () => {
           <div className="mt-12 pt-8 border-t border-purple-400 border-opacity-30">
             <div className="flex flex-col md:flex-row justify-between items-center text-purple-200 text-sm">
               <div className="flex items-center mb-4 md:mb-0">
-                <span>© 2024 Polygon Accounts. All rights reserved.</span>
+                <span>© 2025 Polygon Accounts. All rights reserved.</span>
               </div>
             </div>
           </div>
