@@ -15,7 +15,7 @@ const ProofAndTrust = () => {
               What used to take 15 minutes now takes 20 seconds."
             </blockquote>
             <cite className="text-sm text-gray-500 mt-2 block">
-              — Web3 Developer at ETH Denver 2024
+              — Web3 Developer at ETH Denver 2025
             </cite>
           </div>
         </div>
